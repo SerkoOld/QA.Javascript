@@ -6,7 +6,6 @@
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js"
   },
-  "author": "Shivendra",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
