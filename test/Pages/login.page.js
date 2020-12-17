@@ -8,7 +8,7 @@ class LoginPage extends Page {
 
 
     open() {
-        super.open('https://general.testing.serko.travel/login')
+        super.open('')
     }
 
     submit() {
