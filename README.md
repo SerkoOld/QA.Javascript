@@ -1,5 +1,7 @@
 ## This is a Javascript project for use in the Quality Assistant/Analyst interview auditions.
-
+----------------------------
+TODO: Re-upload this repository once baseline has been redefined
+----------------------------
 ## Purpose
 The goal of the session is to automate scenarios for the login page.
 

@@ -6,7 +6,7 @@ jest.setTimeout(100000)
 it('should open login page', async () => {
     let builder = new Builder().forBrowser('chrome')
     let driver = builder.build()
-    await driver.get('https://localhost')
+    await driver.get('https://localhost') //todo ask the interviewer for a value
 
     expect(await driver.getCurrentUrl()).toBe('https://localhost')
     driver.quit()
@@ -15,7 +15,7 @@ it('should open login page', async () => {
 it('should login with valid credentials', async () => {
     let builder = new Builder().forBrowser('chrome')
     let driver = builder.build()
-    await driver.get('https://localhost')
+    await driver.get('https://localhost') //todo ask the interviewer for a value
 
     let login = '#uniqueId'
     let password = 'password'
