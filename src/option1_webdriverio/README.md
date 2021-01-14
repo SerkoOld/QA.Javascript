@@ -4,4 +4,4 @@
 
 ## Running tests
 * `yarn install`
-* 
+* `yarn test`
