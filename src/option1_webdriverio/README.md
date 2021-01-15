@@ -13,3 +13,7 @@
 * `cd src/option1_webdriverio`
 * `yarn install`
 * `yarn test`
+
+## Logging into the demo app
+Username: `Katharina_Bernier`
+Password: `s3cret`
