@@ -1,6 +1,7 @@
 ## Pre-requisites
 * node 12+
 * yarn https://classic.yarnpkg.com/en/docs/install/#windows-stable
+* python3 https://www.python.org/downloads/
 
 ## Running demo app locally
 * `cd src/demoApp/`
