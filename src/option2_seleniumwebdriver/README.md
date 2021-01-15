@@ -1,12 +1,14 @@
-### Instructions
-#### To run locally:
-1. `npm ci`
-2. `jest`
+# Instructions
+## Pre-requisites
+* node 12+
 
-#### To run in docker container: 
-TODO
+## Running demo app locally
+* `cd src/demoApp/`
+* `npm install`
+* `npm run dev`
+* open `http://localhost:3000` in your browser
 
-#### Links
-Docs:  
-https://www.selenium.dev/selenium/docs/api/javascript/index.html
-https://www.selenium.dev/selenium/docs/api/javascript/module/selenium-webdriver/
+## To run tests locally:
+1. `npm install`
+2. `npm run test`
+
