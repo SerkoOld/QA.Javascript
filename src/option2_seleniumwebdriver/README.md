@@ -1,6 +1,7 @@
 # Instructions
 ## Pre-requisites
 * node 12+
+* python3
 
 ## Running demo app locally
 * `cd src/demoApp/`
