@@ -1,5 +1,5 @@
 ## Pre-requisites
-* node 12+
+* node 12+ LTS
 * yarn https://classic.yarnpkg.com/en/docs/install/#windows-stable
 * python3 https://www.python.org/downloads/
 

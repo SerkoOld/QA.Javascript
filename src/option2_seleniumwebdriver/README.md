@@ -1,6 +1,6 @@
 # Instructions
 ## Pre-requisites
-* node 12+
+* node 12+ LTS
 * python3
 
 ## Running demo app locally
