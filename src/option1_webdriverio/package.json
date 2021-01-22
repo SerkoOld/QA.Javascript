@@ -1,12 +1,12 @@
 {
-  "name": "ui-javascript-tests",
+  "name": "interview_node_webdriverio_mocha",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js"
   },
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.12.10",
