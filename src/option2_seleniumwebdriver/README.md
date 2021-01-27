@@ -11,7 +11,7 @@
 
 ## To run tests locally:
 1. `npm install`
-2. `npm run test
+2. `npm run test`
 
 ## Logging into the demo app
 Username: `Katharina_Bernier`
