@@ -8,6 +8,7 @@ var password = 's3cret';
 var builder = new Builder().forBrowser('chrome')
 var driver = builder.build()
 
+// TODO: Complete the Login and Payment flow tests
 it('Should be able to login with valid user and make a payment', async () => {
     await driver.get(url)
     expect(await driver.getCurrentUrl()).toContain(url)
