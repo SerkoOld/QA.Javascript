@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "chromedriver": "^87.0.5",
+    "chromedriver": "^89.0.0",
     "jest": "26.6.3",
     "selenium-webdriver": "3.6.0"
   },

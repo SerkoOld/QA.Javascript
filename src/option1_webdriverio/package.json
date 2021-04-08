@@ -19,10 +19,10 @@
     "@wdio/mocha-framework": "^5.18.7",
     "@wdio/spec-reporter": "^5.18.7",
     "@wdio/sync": "^5.18.7",
-    "chromedriver": "^86.0.0",
-    "selenium-webdriver": "^4.0.0-alpha.5",
-    "wdio-chromedriver-service": "^5.0.2",
+    "chromedriver": "^89.0.0",
     "expect": "^26.6.2",
-    "expect-webdriverio": "^1.4.1"
+    "expect-webdriverio": "^1.4.1",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "wdio-chromedriver-service": "^5.0.2"
   }
 }
