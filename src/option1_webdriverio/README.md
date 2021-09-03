@@ -4,7 +4,7 @@
 * python3 https://www.python.org/downloads/
 
 ## Running demo app locally
-* `cd src/demoApp/`
+* `cd cypress-realworld-app`
 * `yarn install`
 * `yarn dev`
 * open `http://localhost:3000` in your browser
