@@ -1,0 +1,3 @@
+[submodule "cypress-realworld-app"]
+	path = cypress-realworld-app
+	url = git@github.com:cypress-io/cypress-realworld-app.git
