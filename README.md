@@ -9,6 +9,6 @@ There are several technology options for you to choose to go with:
 
 For both options, please install `Cypress Real World App` from here: https://github.com/cypress-io/cypress-realworld-app
 - clone the repo
-- follow the instructions in `readme` install dependencies and run the app locally
+- follow the instructions in `readme` to install dependencies and run the app locally
 
 Please refer to individual readme files (in the option1/2/3 subfolders) in order to run tests.
