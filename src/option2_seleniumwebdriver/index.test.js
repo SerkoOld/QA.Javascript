@@ -9,13 +9,17 @@ var builder = new Builder().forBrowser('chrome')
 var driver = builder.build()
 
 // TODO: Complete the Login and Payment flow tests
-it('Should be able to login with valid user and make a payment', async () => {
+it('Should be able to login with valid username and password', async () => {
     await driver.get(url)
     expect(await driver.getCurrentUrl()).toContain(url)
     await driver.findElement(By.id('username')).sendKeys(username)
     await driver.findElement(By.id('password')).sendKeys(password)
     await driver.findElement(By.css('[data-test=signin-submit]')).click()
     await driver.wait(until.elementLocated(By.css('[data-test="nav-top-new-transaction"]'), 10000))
+
+})
+
+it('Should be able to make a new payment', async () => {
     await driver.findElement(By.css('[data-test="nav-top-new-transaction"]')).click()
     await driver.findElement(By.css('[data-test="user-list-item-qywYp6hS0U"]')).click()
     await driver.findElement(By.id('amount')).sendKeys('100')

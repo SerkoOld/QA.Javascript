@@ -2,7 +2,6 @@ var url = 'http://localhost:3000';
 var username = 'Katharina_Bernier';
 var password = 's3cret';
 
-// TODO: Complete the Login and Payment flow tests
 it('Should be able to login with valid username and password', () => {
     browser.url(url);
     expect(browser.getUrl()).toContain(url);
