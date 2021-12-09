@@ -4,7 +4,7 @@
   "description": "cypress tests",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --spec 'cypress/**/*.test.js'",
+    "test": "npx cypress run --spec 'cypress/tests/index.test.js'",
     "open": "npm cypress open"
   },
   "dependencies": {
