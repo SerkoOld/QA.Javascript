@@ -9,5 +9,5 @@
 * `yarn test`
 
 ## Logging into the demo app
-Username: `Katharina_Bernier`
+Username: `Katharina_Bernier`  
 Password: `s3cret`
