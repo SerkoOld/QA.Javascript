@@ -1,0 +1,6 @@
+{
+  "testFiles": "**/*test.js",
+  "integrationFolder": "cypress/tests",
+  "video": false,
+  "screenshotOnRunFailure": false
+}

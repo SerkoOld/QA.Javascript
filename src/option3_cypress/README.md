@@ -4,7 +4,7 @@
 * python3 https://www.python.org/downloads/
 
 ## Running tests locally
-* `cd src/option1_webdriverio`
+* `cd src/option3_cypress`
 * `yarn install`
 * `yarn test`
 
