@@ -2,5 +2,6 @@
   "testFiles": "**/*test.js",
   "integrationFolder": "cypress/tests",
   "video": false,
-  "screenshotOnRunFailure": false
+  "screenshotOnRunFailure": false,
+  "defaultCommandTimeout": 10000
 }
